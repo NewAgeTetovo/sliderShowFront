@@ -1,0 +1,7 @@
+FE – Task 1
+
+Deinoni sa sekcione duhet per ta prezentuar nje apartament ne web faqe. Pastaj, ne baze te permbajtjes se tyre definoni tituj per kto sekcione. 
+Dhe me ne fund, formoni nje grup butonash me kto tituj. Ky grup butonash do te perdoret per ti ndruar sekcionet ku do te paraqiten te dhena per 
+apartamentin. Pra, kur te shtypet n butonun kuzhin te tregohet sekcioni I kuzhines dhe kshu me rahd. Tani per tani, duhet te formohet vetem 
+grupi I butonave. Formoni kete duke perdorur HTML dhe CSS. Nese mundeni perdorni edhe JS per ti dhene efekte dhe animacione butonave. Kur ta 
+kryni, fajllin html dhe css kopjoni ne repon tuaj dhe tregoni ne fb se keni mbaruar.
